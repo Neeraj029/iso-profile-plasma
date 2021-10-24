@@ -122,6 +122,8 @@ woof-gtk-config
 gtk3
 gtk2
 lxappearance
+
+woof-plasma-config
 woof-rofi-config
 woof-dunst-config
 woof-kitty-config
@@ -142,6 +144,8 @@ kde-applications
 ssdm
 ssdm-kcm
 
+latte-dock
+lightly-qt
 binutils
 base-devel
 xorg
